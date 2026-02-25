@@ -2,16 +2,7 @@
   "name": "phoneburner/coding-standard",
   "description": "PhoneBurner PHP Coding Standards",
   "type": "phpcodesniffer-standard",
-    "authors": [
-        {
-            "email": "tim@phoneburner.com",
-            "name": "Tim Lytle"
-        },
-        {
-            "email": "andy@phoneburner.com",
-            "name": "Andy Snell"
-        }
-    ],
+    "authors": [],
   "config": {
     "sort-packages": true,
     "allow-plugins": {
